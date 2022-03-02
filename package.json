@@ -1,0 +1,14 @@
+{
+  "name": "freechoice",
+  "version": "1.0.0",
+  "description": "Freechoice Whittlesea",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Prasanga Shrestha",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
